@@ -1,5 +1,5 @@
 .idea
 .env
 __pycache__
-venv/
-tweet-vis/
+venv
+tweet-vis
